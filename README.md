@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jackisapi
 - 👀 I’m interested in ...Linux , Raspberrypi, python, kotlin, and web development.
 - 🌱 I’m currently learning ...Python,Linux,Javascript, and game development
-- 💞️ I’m looking to collaborate on anything python and linux related would be fun.
+- 💞️ I’m looking to collaborate on anything python and linux related would be fun (Currently a little busy though so I cannot colab on everything.)
  📫 How to reach me .. On discord. https://discord.gg/AmVHaK9zkB (my username is 𝒸𝒽𝒾𝓁𝓁#5722)
 All my proven skills will be logged here (certfications and whatnot) https://www.credly.com/users/jackson-weigand 
 <!---
