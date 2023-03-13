@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jackisapi and I exist
 - 👀 I’m interested in ...Linux , Raspberrypi, python, kotlin, and web development.
-- 🌱 I’m currently learning ...Python,Linux,Javascript,Kotlin and game development with Unity
+- 🌱 I’m currently learning ...Python,Linux,Java,Kotlin and game development with Unity
 - 💞️ I’m looking to collaborate on anything python and linux related would be fun (Currently a little busy though so I cannot colab on everything.)
  📫 How to reach me .. On discord my username is chillvibes#1237
  My Dream is to take over the world lmao.
