@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Linux , Raspberrypi, python, kotlin, and web development.
 - 🌱 I’m currently learning ...Python,Linux,Java,Kotlin and game development with Unity
 - 💞️ I’m looking to collaborate on anything python and linux related would be fun (Currently a little busy though so I cannot colab on everything.)
- 📫 How to reach me .. On discord my username is chillvibes#1237
+ 📫 How to reach me .. On discord @ (thanks discord for ruining ur naming scheme) is @chillisapi
  My Dream is to take over the world lmao.
 All my proven skills will be logged here (certfications and whatnot) https://www.credly.com/users/jackson-weigand 
 <!---
